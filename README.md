@@ -1,13 +1,9 @@
-# 🍭 浙江大学PAT题解（CLang）
-如有更好的方法（纯C环境下）请在Issues指出，谢谢！
+# 🍭 CCCC-GPLT（中国高校计算机大赛-团体程序设计天梯赛）题解
+ - <b>语言：C</b>
+ - 如有更好的方法（纯C环境下）请在Issues指出，谢谢！
 
-### 目录
- - PAT甲级题解（未完成）
- - PAT乙级题解（未完成）
- - PAT团体程序设计天梯赛GPLT题解
- 
-### PAT团体程序设计天梯赛GPLT题解|
-|   ID   | Title           | 备注                    |
+#### 目录
+|   ID   | Title           | 备注                    |
 | :----: | --------------- | --------------------- |
 | L1-001 | Hello World     | 水题                    |
 | L1-002 | 打印沙漏            | 图形打印                  |
@@ -80,5 +76,7 @@
 | L3-014 | 周游世界            | 深度优先搜索DFS             |
 | L3-015 | 球队“食物链”         | 深度优先搜索DFS             |
 
-###  致谢 README.md
-表格部分来自 https://github.com/liuchuo/PAT/blob/master/README.md 整理
+####  致谢
+README.md表格部分来自 ![/liuchuo/PAT][1] 整理
+
+ [1]: "https://github.com/liuchuo/PAT/blob/master/README.md"
