@@ -77,6 +77,4 @@
 | L3-015 | 球队“食物链”         | 深度优先搜索DFS             |
 
 ####  致谢
-README.md表格部分来自 ![/liuchuo/PAT][1] 整理
-
- [1]: "https://github.com/liuchuo/PAT/blob/master/README.md"
+- 感谢[@柳婼](https://github.com/liuchuo)的PAT题解所整理的表格
