@@ -5,9 +5,6 @@
  - 编译环境：gcc 4.7.2
  - 相关参数：-DONLINE_JUDGE -fno-tree-ch -O2 -Wall -std=c99 -pipe $src -lm -o $exe
 
-### 相关
-博客：[SycBlog - 《PAT-GPLT目录汇总》][1]
-
 遵守 GNU General Public License v3.0 协议
 
 如果有更好的方法请在Issues或博客留言中指出，不胜感激！
@@ -85,6 +82,4 @@
 | L3-013 | 非常弹的球          | 物理题                   
 | L3-014 | 周游世界            | 深度优先搜索DFS             
 | L3-015 | 球队“食物链”        | 深度优先搜索DFS             
-
-[1]: https://www.mfeng.cc/archives/2018/02/01/PAT-GPLT.html
 
